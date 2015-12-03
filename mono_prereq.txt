@@ -1,0 +1,4 @@
+# prerequisites for mono installation
+brew install autoconf
+brew install libtool
+brew install automake
