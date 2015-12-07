@@ -1,4 +1,6 @@
+brew install coq
 brew install go --cross-compile-common
+brew cask install coqide
 brew cask install google-chrome
 brew cask install keepassx
 brew cask install iterm2
