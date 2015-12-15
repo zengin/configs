@@ -1,5 +1,5 @@
 ; coqide GtkAccelMap rc-file         -*- scheme -*-
-; this file is an automated accelerator map dump
+; CoqIDE alternative key bindings
 ;
 ; (gtk_accel_path "<Actions>/Templates/Template Read Module" "")
 ; (gtk_accel_path "<Actions>/Tactics/Tactic pattern" "")
