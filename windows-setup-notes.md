@@ -1,0 +1,1 @@
+- (Win11) Powerline fonts don't work well with default font installations, installing through NerdFonts work.
