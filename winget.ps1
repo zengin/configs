@@ -1,10 +1,9 @@
-winget install "Git"
+winget install Git.Git
 winget install "Git Extensions"
 winget install "GitHub Desktop"
 winget install "Git Large File Storage"
 winget install "GitHub CLI"
 winget install "Go"
-winget install "Google Chrome"
 winget install "Graphviz"
 winget install "LINQPad"
 winget install "Azure CLI"
