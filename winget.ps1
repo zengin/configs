@@ -1,34 +1,29 @@
+winget install Microsoft.PowerShell
+winget install Microsoft.PowerToys
 winget install Git.Git
-winget install "Git Extensions"
-winget install "GitHub Desktop"
-winget install "Git Large File Storage"
-winget install "GitHub CLI"
-winget install "Go"
-winget install "Graphviz"
-winget install "LINQPad"
-winget install "Azure CLI"
-winget install "Azure Functions Core Tools"
-winget install "Azure Storage Emulator"
-winget install "Azure Storage Explorer"
-winget install "Microsoft Edge"
-winget install "Git Credential Manager Core"
-winget install "Microsoft Garage Mouse without Borders"
-winget install "Microsoft OneDrive"
-winget install "Microsoft OneDrive Enterprise"
-winget install "PowerShell"
-winget install "PowerToys"
-winget install "RemoteDesktopClient"
-winget install "Microsoft Teams"
-winget install "Visio Viewer"
-winget install "Visual Studio Build Tools"
-winget install "Windows Terminal"
-winget install ".Net Framework"
-winget install ".NET Core"
-winget install ".NET Core Runtime"
-winget install "Firefox"
-winget install "Notepad++"
-winget install "Node.js"
-winget install "Python"
-winget install "rustup"
-winget install "Fiddler"
-winget install "WinMerge"
+winget install GitExtensionsTeam.GitExtensions
+winget install GitHub.GitHubDesktop
+winget install GitHub.cli
+winget install Golang.Go
+winget install Graphviz
+winget install LINQPad.LINQPad.7
+winget install Microsoft.AzureCLI
+winget install Microsoft.AzureFunctionsCoreTools
+winget install Microsoft.AzureStorageExplorer
+winget install Microsoft.dotnet
+winget install Mozilla.Firefox
+winget install Notepad++.Notepad++
+winget install OpenJS.NodeJS
+winget install Python.Python.3
+winget install Rustlang.Rust.GNU
+winget install Telerik.Fiddler.Classic
+winget install WinMerge.WinMerge
+# winget install "Git Credential Manager Core"
+# winget install "Microsoft Edge"
+# winget install "Git Large File Storage"
+# winget install "Azure Storage Emulator"
+# winget install "Microsoft Garage Mouse without Borders"
+# winget install "Microsoft OneDrive"
+# winget install "Microsoft OneDrive Enterprise"
+# winget install "RemoteDesktopClient"
+# winget install "Visual Studio Build Tools"
