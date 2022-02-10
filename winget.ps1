@@ -18,6 +18,8 @@ winget install Python.Python.3
 winget install Rustlang.Rust.GNU
 winget install Telerik.Fiddler.Classic
 winget install WinMerge.WinMerge
+winget install JetBrains.IntelliJIDEA.Community
+winget install Microsoft.OpenJDK.17
 # winget install "Git Credential Manager Core"
 # winget install "Microsoft Edge"
 # winget install "Git Large File Storage"
