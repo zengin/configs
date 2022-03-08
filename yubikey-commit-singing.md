@@ -96,7 +96,7 @@ git config --global gpg.program 'C:\Program Files (x86)\GnuPG\bin\gpg.exe'
 'C:\Program Files\Yubico\YubiKey Manager\ykman.exe' openpgp keys set-touch SIG ON
 ```
 
-16. Create a git commit in any repository, commit action will be blocked until the YubiKey is touched.
+16. Create a git commit in any repository. You will be asked your PIN (non-admin PIN from step 7) and then you will need to touch the YubiKey to sign the commit.
 
 17. Confirm that the commit is signed:
 ```
