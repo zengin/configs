@@ -22,6 +22,7 @@ winget install JetBrains.IntelliJIDEA.Community
 winget install Microsoft.OpenJDK.17
 winget install Microsoft.VisualStudio.2022.Enterprise
 winget install Microsoft.VisualStudioCode
+winget install Yubico.YubikeyManager
 # winget install Graphviz
 # winget install "Git Credential Manager Core"
 # winget install "Microsoft Edge"
