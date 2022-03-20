@@ -5,12 +5,12 @@ winget install GitExtensionsTeam.GitExtensions
 winget install GitHub.GitHubDesktop
 winget install GitHub.cli
 winget install Golang.Go
-winget install Graphviz
 winget install LINQPad.LINQPad.7
 winget install Microsoft.AzureCLI
 winget install Microsoft.AzureFunctionsCoreTools
 winget install Microsoft.AzureStorageExplorer
 winget install Microsoft.dotnet
+winget install Google.Chrome
 winget install Mozilla.Firefox
 winget install Notepad++.Notepad++
 winget install OpenJS.NodeJS
@@ -20,6 +20,7 @@ winget install Telerik.Fiddler.Classic
 winget install WinMerge.WinMerge
 winget install JetBrains.IntelliJIDEA.Community
 winget install Microsoft.OpenJDK.17
+# winget install Graphviz
 # winget install "Git Credential Manager Core"
 # winget install "Microsoft Edge"
 # winget install "Git Large File Storage"
