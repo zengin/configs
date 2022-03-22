@@ -23,6 +23,8 @@ winget install Microsoft.OpenJDK.17
 winget install Microsoft.VisualStudio.2022.Enterprise
 winget install Microsoft.VisualStudioCode
 winget install Yubico.YubikeyManager
+winget install GnuPG.Gpg4win
+winget install JanDeDobbeleer.OhMyPosh
 # winget install Graphviz
 # winget install "Git Credential Manager Core"
 # winget install "Microsoft Edge"
