@@ -25,6 +25,7 @@ winget install Microsoft.VisualStudioCode
 winget install Yubico.YubikeyManager
 winget install GnuPG.Gpg4win
 winget install JanDeDobbeleer.OhMyPosh
+winget install Postman.Postman
 # winget install Graphviz
 # winget install "Git Credential Manager Core"
 # winget install "Microsoft Edge"
