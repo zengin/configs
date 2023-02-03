@@ -4,12 +4,14 @@ winget install Git.Git
 winget install GitExtensionsTeam.GitExtensions
 winget install GitHub.GitHubDesktop
 winget install GitHub.cli
-winget install Golang.Go
+winget install "Go Programming Language"
 winget install LINQPad.LINQPad.7
 winget install Microsoft.AzureCLI
 winget install Microsoft.AzureFunctionsCoreTools
 winget install Microsoft.AzureStorageExplorer
-winget install Microsoft.dotnet
+winget install Microsoft.DotNet.SDK.7
+winget install Microsoft.DotNet.SDK.6
+winget install Microsoft.DotNet.SDK.5
 winget install Google.Chrome
 winget install Mozilla.Firefox
 winget install Notepad++.Notepad++
