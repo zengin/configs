@@ -17,6 +17,7 @@ winget install GnuPG.Gpg4win
 winget install JanDeDobbeleer.OhMyPosh
 winget install Insomnia.Insomnia
 winget install LMStudio.LMStudio
+winget install Microsoft.DevProxy
 # winget install "Go Programming Language"
 # winget install Microsoft.AzureFunctionsCoreTools
 # winget install Python.Python.3
